@@ -9,7 +9,7 @@ export default function Home() {
         <h1 className="text-4xl font-bold tracking-tight sm:text-5xl bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/70">
           Alur Tes Santri Baru
         </h1>
-        <h2 className="text-xl font-semibold text-primary">Gelombang 2</h2>
+        <h2 className="text-xl font-semibold text-primary">Gelombang 3</h2>
         <p className="text-lg text-muted-foreground">
           Informasi lengkap mengenai proses tes masuk untuk calon santri baru. Ikuti setiap langkah dengan seksama untuk
           kelancaran proses tes.
