@@ -177,7 +177,7 @@ export const resultMts: Record<string, NilaiPeserta> = {
     },
     "MTPA-081": {
      nama: "RIZKI KURNIAWAN",
-    status: "DITERIMA",
+    status: "MENUNGGU",
      nilai: {
             "Tes Tertulis": 0,
             "Tes Al-Qur'an & Ibadah": 0,
@@ -193,7 +193,7 @@ export const resultMts: Record<string, NilaiPeserta> = {
     },
     "MTPI-061": {
      nama: "PUTRI ANANDA KIRANA ",
-    status: "DITERIMA",
+    status: "MENUNGGU",
      nilai: {
             "Tes Tertulis": 0,
             "Tes Al-Qur'an & Ibadah": 0,
@@ -233,7 +233,7 @@ export const resultMts: Record<string, NilaiPeserta> = {
     },
     "MTPI-066": {
      nama: "DAVINA SHAFA FELISHA",
-    status: "DITERIMA",
+    status: "MENUNGGU",
      nilai: {
             "Tes Tertulis": 0,
             "Tes Al-Qur'an & Ibadah": 0,
@@ -313,7 +313,7 @@ export const resultMts: Record<string, NilaiPeserta> = {
     },
     "MTPI-076": {
      nama: "DAMIA KHAIRUNNISA ",
-    status: "DITERIMA",
+    status: "MENUNGGU",
      nilai: {
             "Tes Tertulis": 0,
             "Tes Al-Qur'an & Ibadah": 0,
@@ -321,7 +321,7 @@ export const resultMts: Record<string, NilaiPeserta> = {
     },
     "": {
      nama: "",
-    status: "DITERIMA",
+    status: "MENUNGGU",
      nilai: {
             "Tes Tertulis": 0,
             "Tes Al-Qur'an & Ibadah": 0,
@@ -329,7 +329,7 @@ export const resultMts: Record<string, NilaiPeserta> = {
     },
     "": {
      nama: "",
-    status: "DITERIMA",
+    status: "MENUNGGU",
      nilai: {
             "Tes Tertulis": 0,
             "Tes Al-Qur'an & Ibadah": 0,
@@ -337,7 +337,7 @@ export const resultMts: Record<string, NilaiPeserta> = {
     },
     "": {
      nama: "",
-    status: "DITERIMA",
+    status: "MENUNGGU",
      nilai: {
             "Tes Tertulis": 0,
             "Tes Al-Qur'an & Ibadah": 0,
@@ -345,7 +345,7 @@ export const resultMts: Record<string, NilaiPeserta> = {
     },
     "": {
      nama: "",
-    status: "DITERIMA",
+    status: "MENUNGGU",
      nilai: {
             "Tes Tertulis": 0,
             "Tes Al-Qur'an & Ibadah": 0,
@@ -353,7 +353,7 @@ export const resultMts: Record<string, NilaiPeserta> = {
     },
     "": {
      nama: "",
-    status: "DITERIMA",
+    status: "MENUNGGU",
      nilai: {
             "Tes Tertulis": 0,
             "Tes Al-Qur'an & Ibadah": 0,
@@ -361,7 +361,7 @@ export const resultMts: Record<string, NilaiPeserta> = {
     },
     "": {
      nama: "",
-    status: "DITERIMA",
+    status: "MENUNGGU",
      nilai: {
             "Tes Tertulis": 0,
             "Tes Al-Qur'an & Ibadah": 0,
@@ -369,7 +369,7 @@ export const resultMts: Record<string, NilaiPeserta> = {
     },
     "": {
      nama: "",
-    status: "DITERIMA",
+    status: "MENUNGGU",
      nilai: {
             "Tes Tertulis": 0,
             "Tes Al-Qur'an & Ibadah": 0,
@@ -377,7 +377,7 @@ export const resultMts: Record<string, NilaiPeserta> = {
     },
     "": {
      nama: "",
-    status: "DITERIMA",
+    status: "MENUNGGU",
      nilai: {
             "Tes Tertulis": 0,
             "Tes Al-Qur'an & Ibadah": 0,
@@ -385,7 +385,7 @@ export const resultMts: Record<string, NilaiPeserta> = {
     },
     "": {
      nama: "",
-    status: "DITERIMA",
+    status: "MENUNGGU",
      nilai: {
             "Tes Tertulis": 0,
             "Tes Al-Qur'an & Ibadah": 0,
@@ -393,7 +393,7 @@ export const resultMts: Record<string, NilaiPeserta> = {
     },
     "": {
      nama: "",
-    status: "DITERIMA",
+    status: "MENUNGGU",
      nilai: {
             "Tes Tertulis": 0,
             "Tes Al-Qur'an & Ibadah": 0,
@@ -401,7 +401,7 @@ export const resultMts: Record<string, NilaiPeserta> = {
     },
     "": {
      nama: "",
-    status: "DITERIMA",
+    status: "MENUNGGU",
      nilai: {
             "Tes Tertulis": 0,
             "Tes Al-Qur'an & Ibadah": 0,
@@ -409,7 +409,7 @@ export const resultMts: Record<string, NilaiPeserta> = {
     },
     "": {
      nama: "",
-    status: "DITERIMA",
+    status: "MENUNGGU",
      nilai: {
             "Tes Tertulis": 0,
             "Tes Al-Qur'an & Ibadah": 0,
@@ -417,7 +417,7 @@ export const resultMts: Record<string, NilaiPeserta> = {
     },
     "": {
      nama: "",
-    status: "DITERIMA",
+    status: "MENUNGGU",
      nilai: {
             "Tes Tertulis": 0,
             "Tes Al-Qur'an & Ibadah": 0,
@@ -425,7 +425,7 @@ export const resultMts: Record<string, NilaiPeserta> = {
     },
     "": {
      nama: "",
-    status: "DITERIMA",
+    status: "MENUNGGU",
      nilai: {
             "Tes Tertulis": 0,
             "Tes Al-Qur'an & Ibadah": 0,
@@ -433,7 +433,7 @@ export const resultMts: Record<string, NilaiPeserta> = {
     },
     "": {
      nama: "",
-    status: "DITERIMA",
+    status: "MENUNGGU",
      nilai: {
             "Tes Tertulis": 0,
             "Tes Al-Qur'an & Ibadah": 0,
